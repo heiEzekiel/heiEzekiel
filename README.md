@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am @heiEzekiel
 
-- 🔭 I’m currently working on ML projects
+- 🔭 I’m currently working on machine learning and data analytics projects
 - 🌱 I’m currently studying in BSc Information Systems
 
 <!--
