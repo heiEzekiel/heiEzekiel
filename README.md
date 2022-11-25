@@ -2,7 +2,7 @@
 I am @heiEzekiel
 
 - 🔭 I’m currently working on machine learning and data analytics projects
-- 🌱 I’m currently studying in BSc Information Systems
+- 🌱 I’m currently studying in BSc Information Systems (Business Analytics)
 
 <!--
 
